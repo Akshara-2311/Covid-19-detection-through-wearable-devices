@@ -15,7 +15,7 @@ The following are specifications:
   • Remedial measures for those identified with medium probability: Give 
   instructions on personal care, health check-up, social distancing etc.
   
-Consider the scenario and implement in Flowgorithm. Perform the following:
+Consider the scenario and implement in c programming. Perform the following:
   1. Find out the number of persons with high temperature based on the standard 
   temperature score.
   
